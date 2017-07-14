@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(666): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(666): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(666): warning A6004: procedure argument or local not referenced : lpReserved
+  Project.vcxproj -> D:\Sudoko_Project\DllProject_template\Debug\Project.dll

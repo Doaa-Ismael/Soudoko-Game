@@ -1,0 +1,51 @@
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe.config
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.pdb
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Form1.resources
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Properties.Resources.resources
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csproj.GenerateResource.Cache
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.exe
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.pdb
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.welcome.resources
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csprojResolveAssemblyReference.cache
+E:\Cis\Year 3\smester 1\Assembly\Export_ASM_To_DLL2\Export to DLL\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.finish_form.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe.config
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.exe
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.pdb
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.finish_form.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Form1.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.welcome.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe.config
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.pdb
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.finish_form.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Form1.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.welcome.resources
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.exe
+C:\Users\LENOVO\Desktop\Sudoko_Project\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.pdb
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe.config
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.finish_form.resources
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Form1.resources
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Properties.Resources.resources
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.welcome.resources
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csproj.GenerateResource.Cache
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.exe
+D:\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.pdb
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe.config
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.exe
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.pdb
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.exe
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\bin\Debug\sudoko_ Asm.pdb
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.finish_form.resources
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Form1.resources
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.Properties.Resources.resources
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko__Asm.welcome.resources
+D:\Projects\Sudoko_Project\sudoko_ Asm\sudoko_ Asm\obj\Debug\sudoko_ Asm.csproj.GenerateResource.Cache

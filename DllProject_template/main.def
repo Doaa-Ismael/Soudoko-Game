@@ -1,0 +1,13 @@
+EXPORTS		
+openingfile @1
+IsValueInRange @2
+closeingfile @3
+difcu @4
+check @5
+Edit @6
+finish @7
+start @8
+ctostring @9
+endgame @10
+calc @11
+score @12
